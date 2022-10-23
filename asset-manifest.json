@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-weather-app/static/css/main.aaf4ab0a.css",
+    "main.css": "/react-weather-app/static/css/main.617720db.css",
     "main.js": "/react-weather-app/static/js/main.fb335719.js",
     "static/media/ozero_gory_dolina_160899_3840x2160.jpg": "/react-weather-app/static/media/ozero_gory_dolina_160899_3840x2160.c74469b15859b9c207e5.jpg",
     "index.html": "/react-weather-app/index.html",
-    "main.aaf4ab0a.css.map": "/react-weather-app/static/css/main.aaf4ab0a.css.map",
+    "main.617720db.css.map": "/react-weather-app/static/css/main.617720db.css.map",
     "main.fb335719.js.map": "/react-weather-app/static/js/main.fb335719.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaf4ab0a.css",
+    "static/css/main.617720db.css",
     "static/js/main.fb335719.js"
   ]
 }
