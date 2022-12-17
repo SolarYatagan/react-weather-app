@@ -1,6 +1,6 @@
 # react-weather-app
 
-Live Demo https://solaryatagan.github.io/react-movie-app/
+Live Demo https://solaryatagan.github.io/react-weather-app/
 </br>
 You need an API key from OpenWeatherMap, you can get one by creating an account on their website.
 After you got your API key, create a (**.env**) file at root directory of project, copy the line below to the file and replace YOUR_KEY with your OpenWeatherMap API Key.
